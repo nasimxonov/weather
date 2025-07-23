@@ -8,7 +8,7 @@ import Sidebar from "../components/Sidebar";
 const API_KEY = "66408c3404af7e9ddb6b287632bb4240";
 
 const HomePage = () => {
-  const [city, setCity] = useState("Toshkent");
+  const [city, setCity] = useState("London");
   const [weather, setWeather] = useState<any>(null);
   const [forecast, setForecast] = useState<any[]>([]);
   const [loading, setLoading] = useState(false);
