@@ -1,5 +1,5 @@
 import React from "react";
-import Favorites from "./Favorites";
+import Favorites from "./Favorite";
 
 const Sidebar: React.FC = () => {
   return (

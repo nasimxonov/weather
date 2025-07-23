@@ -6,11 +6,11 @@ const Favorites: React.FC = () => (
     <div className="favorites-list">
       <div className="favorite-item">
         <div className="item-name">Toshkent</div>
-        <span className="item-temp">25°C</span>
+        <span className="item-temp">43°C</span>
       </div>
       <div className="favorite-item">
-        <div className="item-name">Samarqand</div>
-        <span className="item-temp">23°C</span>
+        <div className="item-name">Buxoro</div>
+        <span className="item-temp">22°C</span>
       </div>
     </div>
   </div>
