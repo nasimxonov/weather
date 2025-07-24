@@ -9,7 +9,7 @@ const Header: React.FC<HeaderProps> = ({ city, country }) => (
   <div className="header">
     <div className="logo">
       <span className="logo-icon">🌤️</span>
-      <span className="logo-text">Ob-havo Ilovasi</span>
+      <span className="logo-text">Ob-havo</span>
     </div>
     <div className="time-info">
       <div className="current-time">{new Date().toLocaleTimeString()}</div>
